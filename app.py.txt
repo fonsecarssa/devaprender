@@ -1,0 +1,10 @@
+while True:
+ 	nome= str(input('DIGITE SEU NOME: ').lower().strip()
+	
+	while nome not in "julia":
+		nome= str(input('DIGITE SEU NOME: ').lower().strip()
+
+	if nome == "julia":
+		break
+
+print('FINALIZADO')
